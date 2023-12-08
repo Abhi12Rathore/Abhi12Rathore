@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Hi, I am [Abhishek Rathore](https://www.linkedin.com/in/abhishek-rathore-6b3666135/) , a Android & flutter developer 🧑🏻‍💻from Noida, India. I am always, eager to learn new trends and techs in app development domain. Currently I have start working on JetPack compose and Kotlin flow
+Hi, I am [Abhishek Rathore](https://www.linkedin.com/in/abhishek-rathore-6b3666135/) , a Android & flutter developer 🧑🏻‍💻from Noida, India. I am always, eager to learn new trends and techs in app development domain. Currently I have start working on JetPack compose and Kotlin flow
  
-<p style="font-size:18px; font-weight:bold;">About Me</p>
+**About Me**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
