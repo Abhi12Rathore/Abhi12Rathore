@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Hi, I am [Abhishek Rathore]([link-to-project-1](https://www.linkedin.com/in/abhishek-rathore-6b3666135/)): 
+**Hi, I am [Abhishek Rathore](https://www.linkedin.com/in/abhishek-rathore-6b3666135/): 
  
 
 
