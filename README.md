@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-**Abhi12Rathore/Abhi12Rathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi, I am Abhishek Rathore 
+- [Project 1](link-to-project-1): Description of project 1.
+
 
 Here are some ideas to get you started:
 
