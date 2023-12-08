@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-**Hi, I am Abhishek Rathore 
-- [Project 1](link-to-project-1): Description of project 1.
+**Hi, I am [Abhishek Rathore]([link-to-project-1](https://www.linkedin.com/in/abhishek-rathore-6b3666135/)): 
+ 
 
 
 Here are some ideas to get you started:
