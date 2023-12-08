@@ -18,5 +18,5 @@ Hi, I am [Abhishek Rathore](https://www.linkedin.com/in/abhishek-rathore-6b36661
 
 **Languages & Tools**
 
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png)
+<i class="fab fa-github"></i> <i class="fas fa-code"></i> <i class="fas fa-laptop"></i> <i class="fas fa-heart"></i>
 
