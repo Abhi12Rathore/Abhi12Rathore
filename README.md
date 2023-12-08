@@ -18,12 +18,7 @@ Hi, I am [Abhishek Rathore](https://www.linkedin.com/in/abhishek-rathore-6b36661
 
 ⚙️ **Languages & Tools:**
 
-<img src="url-to-icon" alt="Icon" width="50" height="50"> <img src="url-to-another-icon" alt="Another Icon" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="" width="50" height="50">
 
-Check out my projects and contributions below:
-
-- [Project 1](link-to-project-1): *Description of project 1.*
-- [Project 2](link-to-project-2): *Description of project 2.*
-- [My Portfolio](link-to-portfolio): *Learn more about me and my work.*
 
 
