@@ -18,7 +18,7 @@ I build and lead production Android apps across e-commerce, EdTech, healthcare a
 
 #### Featured projects
 - **Expense Tracker:** Kotlin, Jetpack Compose, MVVM + Clean Architecture, Room, unit tests *(link coming soon)*
-- **[flutterChatApp](https://github.com/Abhi12Rathore/flutterChatApp):** real-time chat with sockets, built in Flutter
+- **[flutterChatApp]:** real-time chat with sockets, built in Flutter
 
 #### Find me
 [LinkedIn](https://www.linkedin.com/in/abhishek-rathore-6b3666135/) · [LeetCode](https://leetcode.com/u/Abhioshek/) · arathore.abhishek457@gmail.com
